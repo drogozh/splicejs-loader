@@ -1,0 +1,9 @@
+{
+    "name": "splicejs-loader",
+    "version": "1.0.0",
+    "files": [
+        "*"
+    ],
+    "main": "./splice.js",
+    "types":"./splice.d.ts"
+}

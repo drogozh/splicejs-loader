@@ -1,0 +1,11 @@
+{
+  "name": "@types/splicejs-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified, types declaration package only\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

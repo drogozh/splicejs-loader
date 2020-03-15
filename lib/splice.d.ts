@@ -1,0 +1,1 @@
+declare function require(impor:any);
